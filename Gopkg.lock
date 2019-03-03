@@ -119,7 +119,7 @@
   version = "v1.0.0-rc5"
 
 [[projects]]
-  digest = "1:12531d6a5b93752cbac226d6d040f19c23432b9a2d9c65dbf4953a60d76cf4ce"
+  digest = "1:58d8fec2edae50b872e5f6b1c45d172c9e2b3b58cf37b8acf39e36c0d9fed32e"
   name = "github.com/ory/dockertest"
   packages = [
     ".",
@@ -149,8 +149,8 @@
     "docker/types/versions",
   ]
   pruneopts = "NUT"
-  revision = "9f1141b78507d23603f6be530587664ebb63a8d2"
-  version = "v3.3.2"
+  revision = "f76851ed013cf03f376b6580c834467187bb7148"
+  version = "v3.3.4"
 
 [[projects]]
   digest = "1:5cf3f025cbee5951a4ee961de067c8a89fc95a5adabead774f82822efabab121"
